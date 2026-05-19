@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "oriiion": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://oriiion.com/api/mcp"
+      ],
+      "env": {}
+    }
+  }
+}

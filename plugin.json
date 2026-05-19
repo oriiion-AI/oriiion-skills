@@ -1,0 +1,12 @@
+{
+  "name": "oriiion",
+  "description": "Official agent plugin providing skills and MCP server configurations for the Oriiion social media AI platform.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Oriiion"
+  },
+  "homepage": "https://github.com/oriiion-AI/oriiion-skills",
+  "repository": "https://github.com/oriiion-AI/oriiion-skills",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
