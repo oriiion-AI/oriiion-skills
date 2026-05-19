@@ -6,8 +6,16 @@ It provides AI agents (like Claude Code and other MCP-compatible clients) with t
 
 ## Installation
 
-You can install this skill directly into compatible agents. For example, if you are using Claude Code:
+You can install this skill directly into compatible agents. 
 
+**For Cursor (and similar IDE agents):**
+Type this directly into your agent chat:
+```text
+/plugin install oriiion-AI/oriiion-skills
+```
+
+**For Claude Code:**
+Run this in your terminal:
 ```bash
 npx skills add https://github.com/oriiion-AI/oriiion-skills --skill oriiion
 ```
